@@ -18,7 +18,7 @@ import ui.OfficeMenu;
  * @author Gytis
  * 
  * GitHub link:
- * 
+ *              https://github.com/GyVys/CourseManagementSystem
  * 
  */
 
